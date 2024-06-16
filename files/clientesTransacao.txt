@@ -1,0 +1,10 @@
+1,joao,silva,32,joaosilva@gmail.com
+0,te15,tablet,1200
+0,te14,televisao,5000
+1,giderlene,moreira,33,giderleneMoreira@gmail.com
+1,diego,wenndson,32,dwenndson@gmail.com
+0,te15,xbox,4500
+1,Bruno,Souza,35,bruno.souza@email.com
+0,TE14,som,180.00
+0,TE15,Teclado,80.00
+1,Pedro,Oliveira,40,pedro.oliveira@email.com
