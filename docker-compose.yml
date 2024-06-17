@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql:8.0
+    container_name: mysql-spring-project
+    environment:
+      MYSQL_DATABASE: spring_project
+      MYSQL_USER: springBatch
+      MYSQL_PASSWORD: springBatch
+      MYSQL_ROOT_PASSWORD: rootpassword
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+
+volumes:
+  mysql-data:
